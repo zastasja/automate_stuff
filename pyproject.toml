@@ -12,6 +12,7 @@ pyttsx3 = "^2.90"
 pypdf = "^3.3.0"
 pdfreader = "^0.1.12"
 pdfplumber = "^0.7.6"
+watchdog = "^2.2.1"
 
 
 [build-system]
